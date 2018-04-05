@@ -6,6 +6,7 @@
  * Twitter: @3rdwave_themes
 */
 /* ======= Base ======= */
+
 body {
   font-family: 'Roboto', sans-serif;
   color: #666;
@@ -104,6 +105,7 @@ a.btn:hover {
 .header {
   background: linear-gradient(25deg,#0d8aee,#C8A6B4);
   color: #fff;
+  z-index: 9999
 }
 .header a {
   color: #fff;
